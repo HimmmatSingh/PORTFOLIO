@@ -2,15 +2,15 @@ import React from "react";
 export default function Projects() {
   const projects = [
     {
-      title: "Project One",
+      title: "",
       desc: "A short description about this project. Built with React, Tailwind and API integration.",
       image: "Screenshot 2025-10-03 111321.png", // 
-      demo: "https://scsdb-r90yzxy8d-himmat-singhs-projects-b6c3bafc.vercel.app/",
+      demo: "https://scsdb-1lc1.vercel.app",
       github: "https://github.com/HimmmatSingh/SCSDB"
     },
     {
       title: "Project Two",
-      desc: "A modern real estate platform built with React and Tailwind CSS. The app showcases property listings with images, details, and a clean responsive UI. Designed to provide an elegant browsing experience for users looking to explore properties.",
+      desc: "A modern real estate platform built with React and Tailwind CSS. The app showcases property listings with images, details, and a clean responsive UI. .",
       image: "/Estste.png",
       demo: "https://estate-iota-five.vercel.app/",
       github: "https://github.com/HimmmatSingh/ESTATE"
