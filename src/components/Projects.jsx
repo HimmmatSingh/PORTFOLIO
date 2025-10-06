@@ -2,14 +2,14 @@ import React from "react";
 export default function Projects() {
   const projects = [
     {
-      title: "",
+      title: "SCSDB",
       desc: "A short description about this project. Built with React, Tailwind and API integration.",
       image: "Screenshot 2025-10-03 111321.png", // 
       demo: "https://scsdb-1lc1.vercel.app",
       github: "https://github.com/HimmmatSingh/SCSDB"
     },
     {
-      title: "Project Two",
+      title: "Estate",
       desc: "A modern real estate platform built with React and Tailwind CSS. The app showcases property listings with images, details, and a clean responsive UI. .",
       image: "/Estste.png",
       demo: "https://estate-iota-five.vercel.app/",
